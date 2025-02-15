@@ -6,8 +6,10 @@ Wake Tech Email - bpmccarty@my.waketech.edu
 ## My Interests
 I love being around my **family, sports, learning, and building things**.
 * **Family**
+
  	I've been married for nearly 14 years and have a 7 year old daughter and 5 year old son. One of the most rewarding things for me right now is to watch my daughter compete in gymnastics and my son in baseball.
 * **Sports**
+
  	I use to be far more active than I am now, but I played college football, love playing recreational basketball and coaching my son in baseball and whatever else he likes to do. I'm not much help to my daughter in regards to coaching, but I enjoy learning a new sports and all the nuances of it.
 * **Learning**
  	

@@ -26,11 +26,15 @@ sequenceDiagram
     firewall-->>server: approve traffic
     server-->>users: no access "server down"
 ```
+[Source of understanding](https://www.youtube.com/watch?v=z503nLsfe5s)
+
 ### Diagram Explanation
 
 **Participants**
-* _attacker_ - A hacker who creates and controls a botnet to flood a target with traffic and disrupt its services.
+* _attacker_ - A hacker who creates and controls a botnet to flood a target with traffic and disrupt its services. (chatGPT4)
 * _botnets_ - A botnet is a network of infected computers or devices controlled by a hacker to carry out cyberattacks without the owners knowing.
 * _users_ - day-to-day normal users of the server
 * _firewall_ - A firewall is a security system that monitors and controls incoming and outgoing network traffic
 * _server_ - A server is a powerful computer or system that stores, processes, and delivers data, services, or applications to other computers (clients) over a network.
+
+Definitions provided by OpenAI. (2025). ChatGPT (Feb 16 version) \[Large language model\].[https://openai.com](https://openai.com)

@@ -42,7 +42,7 @@ Definitions provided by OpenAI. (2025). ChatGPT (Feb 16 version) \[Large languag
 ### Sequence of Events
 1. _traffic_ - User types in a URL they want to go to.
 2. _approve traffic_ - Users request is approved by the firewall and granted access to the server of the application.
-3. _allocate resources_ - The applications servers allocates resources to the user to interact with the applicaion.
+3. _allocate resources_ - The application servers allocates resources to the user to interact with the applicaion.
 4. _malware to "n" users_ - Attacker infects unsuspecting computers with malware.
 5. _"n" users involuntary part of botnet army_ - The aggregate of all users with malware on their computers is now part of the botnet army.
 6. _"n" disguised traffic_ - Attacker tells the botnet army complied of normal users to target the application all at once.
